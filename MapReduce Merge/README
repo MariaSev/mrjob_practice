@@ -1,0 +1,2 @@
+To run the program, use 'python3 program_name table1_name.json table1_name.json res_file.json' command.
+Change the JOIN_FIELD option if necessary.

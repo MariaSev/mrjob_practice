@@ -1,0 +1,8 @@
+{"A":"a","B":"b","C":"c","table_name":"f_t.json"}
+{"A":"e","B":"f","C":"g","table_name":"f_t.json"}
+{"A":"m","B":"n","C":"o","table_name":"f_t.json"}
+{"A":"m","B":"n","C":null,"table_name":"f_t.json"}
+{"A":"q","B":"r","C":"s","table_name":"f_t.json"}
+{"A":"a","B":"b","D":null,"table_name":"sc_t.json"}
+{"A":"e","B":"f","D":"h","table_name":"sc_t.json"}
+{"A":"m","B":"p","D":null,"table_name":"sc_t.json"}

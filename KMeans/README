@@ -1,0 +1,4 @@
+Before use change the CENTROIDS_FILE to abs path of 'centroids' file in your system.
+You could change CENTROIDS_NUMBER for any number of clasters, too.
+
+To run the program, use 'python3 main.py data.txt' command. 
